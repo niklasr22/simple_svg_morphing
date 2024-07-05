@@ -1,0 +1,4 @@
+*.svg
+!examples/*.svg
+.venv
+**/.DS_Store
