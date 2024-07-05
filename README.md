@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python main.py spline examples/chicken_anim_start.svg examples/chicken_anim_target.svg --output examples/animated_chicken.svg --repeat-count indefinite
+python main.py spline examples/chicken_anim_start.svg examples/chicken_anim_target.svg --output examples/animated_chicken.svg --repeat-count indefinite --duration 2s
 ```
 
 <table>
