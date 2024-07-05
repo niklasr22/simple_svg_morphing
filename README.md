@@ -1,4 +1,4 @@
-# Add SMIL path morphing to SVG files
+# Add SMIL path morphing animations to SVG files
 
 This script adds SMIL path morphing animations to an SVG file. You need to provide the original SVG file and the target SVG file. The script will generate a new SVG file with the animations. The path nodes in the original and target SVG files must have the same number of nodes and the same node type.
 
